@@ -1,6 +1,7 @@
 {
   "name": "sidebar-tailwindcss",
   "private": true,
+  "homepage": "https://muhammadzainur.github.io/sidebar-ReactTailwindCSS",
   "type": "module",
   "scripts": {
     "build": "react-router build",
